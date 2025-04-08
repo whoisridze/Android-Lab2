@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="selfie_image_desc">Селфі</string>
+    <string name="sendSelfieButtonText">Надicлати селфі</string>
+    <string name="takeSelfieButtonText">Зробити селфі</string>
+</resources>
